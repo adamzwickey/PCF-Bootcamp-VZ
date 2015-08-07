@@ -1,6 +1,18 @@
-= Lab 2 - Operating your Application
+= Lab 3 - Operating your Application
 
 [abstract]
 --
-Ttext...
+Text...
 --
+
+== Scaling to Multiple Instances
+
+. Steps
+
+== HTTP Routing
+
+. Steps
+
+== Accessing Container Contents
+
+. Steps
