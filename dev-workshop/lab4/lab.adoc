@@ -2,7 +2,8 @@
 
 [abstract]
 --
-Text...
+Pivotal Cloudfoundry makes the work of performing operations actions, such as scaling, doing a zero-downtime deploy, and managing application health very easy.
+In the this labs we'll continue to explore Pivotal Cloudfoundry operations.
 --
 
 == Health Management
