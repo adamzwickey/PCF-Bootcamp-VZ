@@ -1,6 +1,10 @@
-dev-workshop/cf-workshop-spring-mvc/target/
+dev-workshop/cf-workshop-spring-mvc/target/cf-workshop-spring-mvc-0.1/
+dev-workshop/cf-workshop-spring-mvc/target/classes/
+dev-workshop/cf-workshop-spring-mvc/target/maven-archiver/
 dev-workshop/cf-workshop-spring-mvc/.classpath
 dev-workshop/cf-workshop-spring-mvc/.project
 dev-workshop/cf-workshop-spring-mvc/.settings
 dev-workshop/cf-workshop-spring-mvc/.springBeans
 dev-workshop/cf-workshop-spring-mvc/.DS_Store
+dev-workshop/cf-workshop-spring-mvc/.idea/
+dev-workshop/cf-workshop-spring-mvc/*.iml
