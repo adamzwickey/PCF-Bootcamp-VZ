@@ -27,6 +27,8 @@ import com.gopivotal.cf.workshop.repository.AttendeeRepository;
 import com.gopivotal.cf.workshop.repository.SessionRepository;
 import org.springframework.web.client.RestTemplate;
 
+import javax.servlet.http.HttpServletResponse;
+
 /**
  * Controller for the Cloud Foundry workshop - Spring MVC version.
  * 
@@ -72,7 +74,6 @@ public class CloudFoundryWorkshopController {
 		String vcapServices = System.getenv("VCAP_SERVICES");
 		model.addAttribute("vcapServices", vcapServices);
 		logger.info("Current date and time = [{}], port = [{}].", serverTime, port);
-
 		return "index";
 	}
 	
