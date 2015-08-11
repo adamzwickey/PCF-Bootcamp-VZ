@@ -28,8 +28,8 @@ This one-day hands-on classroom style session will teach Pivotal Cloud Foundry b
 * Session 1 Keynote: The Impact of DevOps for Verizon IT
 * Session 2 Openstack and the Impact to IT Operations
 * Session 3 link:presentations/ArchitectureAndOperations.pptx[Pivotal Cloud Foundry Architecture and Operations]
-* Session 4 link:presentations/ArchitectureAndOperations.pptx[Continuous Delivery and Microservices]
-* Session 5 link:presentations/ArchitectureAndOperations.pptx[Leveraging the Pivotal Cloud Foundry Marketplace]
+* Session 4 link:presentations/microservice_CD.pptx[Continuous Delivery and Microservices]
+* Session 5 link:presentations/PCFMarketplaceOverview.pptx[Leveraging the Pivotal Cloud Foundry Marketplace]
 * Developer Workshop
 ** link:dev-workshop/lab1/lab.html[Lab 1 - From Zero to Pushing Your First Application]
 ** link:dev-workshop/lab2/lab.html[Lab 2 - Binding to Cloud Foundry Services]
