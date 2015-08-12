@@ -1,13 +1,5 @@
 = Pivotal Cloud Foundry Bootcamp
 
-Student Guide
-
-== Instructor Details
-
-Adam Zwickey +
-Advisory Field Engineer - Pivotal +
-azwickey@pivotal.io
-
 == Schedule
 
 This one-day hands-on classroom style session will teach Pivotal Cloud Foundry basics, architecture and fundamentals of pushing code and building applications.
