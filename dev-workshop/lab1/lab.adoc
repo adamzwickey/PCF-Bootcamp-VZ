@@ -20,7 +20,7 @@ Follow the prompts
 
 == Push It!
 
-. Change to the _cf-workshop-spring-mvc_ sample application directory:
+. Change to the _cf-workshop-spring-mvc_ sample application directory.  In the command below replace _$BOOTCAMP_HOME_ with the directory in which you cloned the git repo:
 +
 ----
 $ cd $BOOTCAMP_HOME/dev-workshop/cf-workshop-spring-mvc
